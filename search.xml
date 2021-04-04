@@ -4,6 +4,14 @@
     <title>first</title>
     <url>/2021/04/04/first/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>一</category>
+        <category>二</category>
+      </categories>
+      <tags>
+        <tag>1</tag>
+        <tag>2</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -26,6 +34,11 @@
   <entry>
     <title>second</title>
     <url>/2021/04/04/second/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>third</title>
+    <url>/2021/04/04/third/</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
